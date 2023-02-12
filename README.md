@@ -33,6 +33,44 @@
   <p>
     🇺🇸 In trybe's fullstack web development course I worked on several projects. I'm working hard to get them up on the platform and soon I'll have a lot of good stuff to show.
   </p>
+  <ol>
+  <li>
+      <a
+        style="color: inherit;"
+        href="https://github.com/arturMucci/1-arturMucci-lessons-learned"
+        target="_blank"
+      >
+        <p>Project Lessons Learned</p>
+      </a>
+    </l1>
+    <li>
+      <a
+        style="color: inherit;"
+        href="https://github.com/arturMucci/2-arturMucci-playgroundFunctions"
+        target="_blank"
+      >
+        <p>Project Playground Functions</p>
+      </a>
+    </l1>
+    <li>
+      <a
+        style="color: inherit;"
+        href="https://github.com/arturMucci/3-arturMucci-projectPixelsArt"
+        target="_blank"
+      >
+        <p>Project Pixels Art</p>
+      </a>
+    </l1>
+    <li>
+      <a
+        style="color: inherit;"
+        href="https://github.com/arturMucci/4-arturMucci-project-trybeWarts"
+        target="_blank"
+      >
+        <p>Projeto TrybeWarts</p>
+      </a>
+    </l1>
+  </ol>
   <br/>
   <hr/>
   <h2>
