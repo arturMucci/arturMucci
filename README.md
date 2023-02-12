@@ -1,8 +1,14 @@
 <body style="display: flex;">
   <hr/>
-  <h1>Bem-Vindo ao meu portfólio</h1>
+  <h1>
+    <p>🇧🇷 Bem-Vindo ao meu portfólio</p>
+    <p>🇺🇸 Welcome to my portfolio</p>
+  </h1>
   <p>
-    Meu nome completo é Artur de Meiras Mucci tenho 30 anos e estudo desenvolvimento web Full-stack na ☘️Trybe. Ainda estou buscando minha primeira oportunidade no mercado como Dev, gosto muito de tecnologia e fico muito empolgado quando estou aprendendo coisas novas, meu período no curso é previsto para acabar por volta da metade de 2023 mas já aprendi muito e me sinto preparado para encarar novos desafios. Colocarei em destaque mais abaixo minhas proficiências.
+    🇧🇷 Meu nome completo é Artur de Meiras Mucci tenho 30 anos e estudo desenvolvimento web Full-stack na ☘️Trybe. Ainda estou buscando minha primeira oportunidade no mercado como Dev, gosto muito de tecnologia e fico muito empolgado quando estou aprendendo coisas novas, meu período no curso é previsto para acabar por volta da metade de 2023 mas já aprendi muito e me sinto preparado para encarar novos desafios. Colocarei em destaque mais abaixo minhas proficiências.
+  </p>
+  <p>
+    🇺🇸 My full name is Artur de Meiras Mucci, I'm 30 years old and I study Full-stack web development at ☘️Trybe. I'm still looking for my first opportunity in the market as a Dev, I really like technology and I'm very excited when I'm learning new things, my period in the course is expected to end around the middle of 2023 but I've already learned a lot and I feel prepared to face new ones challenges. I will highlight my skills below.
   </p>
   <hr/>
   <div align="center">
@@ -15,12 +21,25 @@
     <img alt="arturOctoCat" height="300" width="" src="./images/octocat-1676158060085.png">
   </div>
   <hr/>
-  <h1>Projetos em que Trabalhei</h1>
-  <p>
-    No curso de desenvolvimento web fullstack da trybe trabalhei em diversos projetos. Estou trabalhando com afinco para subí-los para a plataforma e em breve terei muita coisa boa para mostrar.
-  </p>
+  <h2>
+    <p>🇧🇷 Projetos em que Trabalhei</p>
+    <p>🇺🇸 Projects I've Worked On</p>
+  </h2>
   <hr/>
-  <h1>Tecnologias que já sou proficiente</h1>
+  <br/>
+  <p>
+    🇧🇷 No curso de desenvolvimento web fullstack da trybe trabalhei em diversos projetos. Estou trabalhando com afinco para subí-los para a plataforma e em breve terei muita coisa boa para mostrar.
+  </p>
+  <p>
+    🇺🇸 In trybe's fullstack web development course I worked on several projects. I'm working hard to get them up on the platform and soon I'll have a lot of good stuff to show.
+  </p>
+  <br/>
+  <hr/>
+  <h2>
+    <p>🇧🇷 Tecnologias que eu já conheço</p>
+    <p>🇺🇸 Technologies I already know</p>
+  </h2>
+  <hr/>
   <div align="center">
     <br>
     <a href="https://git-scm.com/" target="_blank">
@@ -49,7 +68,11 @@
     </a>
   </div><br>
   <hr/>
-  <h1>Estou aprendendo</h1>
+    <h2>
+      <p>🇧🇷 Estou aprendendo</p>
+      <p>🇺🇸 Currently learning</p>
+    </h2>
+  <hr/>
   <div align="center">
     <br>
     <a href="https://www.docker.com/resources/what-container/">
@@ -57,7 +80,11 @@
     </a>
   </div><br>
   <hr/>
-  <h1>Aprenderei em breve</h1>
+  <h2>
+    <p>🇧🇷 Aprenderei em breve</p>
+    <p>🇺🇸 Soon i will learn</p>
+  </h2>
+  <hr/>
   <div align="center">
     <br>
     <img alt="Artur-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
@@ -67,7 +94,12 @@
     <img alt="Artur-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
   </div>
   <br>
-  <h1>Minha contribuição</h1>
+  <hr/>
+  <h2>
+    <p>🇧🇷 Minha colaboração</p>
+    <p>🇺🇸 My collaboration</p>
+  </h2>
+  <hr/>
   <div align="center">
     <br/>
     <a
@@ -87,4 +119,5 @@
         />
     </a>
   </div>
+  <hr/>
 </body>
