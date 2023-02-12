@@ -25,7 +25,6 @@
     <p>🇧🇷 Projetos em que Trabalhei</p>
     <p>🇺🇸 Projects I've Worked On</p>
   </h2>
-  <hr/>
   <br/>
   <p>
     🇧🇷 No curso de desenvolvimento web fullstack da trybe trabalhei em diversos projetos. Estou trabalhando com afinco para subí-los para a plataforma e em breve terei muita coisa boa para mostrar.
@@ -77,7 +76,6 @@
     <p>🇧🇷 Tecnologias que eu já conheço</p>
     <p>🇺🇸 Technologies I already know</p>
   </h2>
-  <hr/>
   <div align="center">
     <br>
     <a href="https://git-scm.com/" target="_blank">
@@ -110,7 +108,6 @@
       <p>🇧🇷 Estou aprendendo</p>
       <p>🇺🇸 Currently learning</p>
     </h2>
-  <hr/>
   <div align="center">
     <br>
     <a href="https://www.docker.com/resources/what-container/">
@@ -122,7 +119,6 @@
     <p>🇧🇷 Aprenderei em breve</p>
     <p>🇺🇸 Soon i will learn</p>
   </h2>
-  <hr/>
   <div align="center">
     <br>
     <img alt="Artur-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
@@ -137,7 +133,6 @@
     <p>🇧🇷 Minha colaboração</p>
     <p>🇺🇸 My collaboration</p>
   </h2>
-  <hr/>
   <div align="center">
     <br/>
     <a
