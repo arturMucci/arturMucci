@@ -86,61 +86,16 @@
   </h2>
   <div align="center">
     <br>
-    <a
-      href="https://git-scm.com/"
-      target="_blank"
-      rel="external"
-    >
-      <img alt="Artur-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-    </a>
-    <a
-      href="https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML/Getting_started"
-      target="_blank"
-      rel="external"
-    >
-      <img alt="Artur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-    </a>
-    <a
-      href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"
-      target="_blank"
-      rel="external"
-    >
-      <img alt="Artur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-    </a>
-    <a
-      href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"
-      rel="external"
-    >
-      <img alt="Artur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-    </a>
-    <a
-      href="https://jestjs.io/pt-BR/"
-      target="_blank"
-      rel="external"
-    >
-      <img alt="Artur-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
-    </a>
-    <a
-      href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank"
-      rel="external"
-    >
-      <img alt="Artur-React-testing-Library" height="30" width="40" src="https://testing-library.com/img/octopus-128x128.png"/>
-    </a>
-    <a
-      href="https://pt-br.reactjs.org/"
-      target="_blank"
-      rel="external"
-    >
-      <img alt="Artur-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-    </a>
-    <a
-      href="https://redux.js.org/"
-      target="_blank"
-      rel="external"
-    >
-      <img alt="Artur-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/>
-    </a>
-  </div><br>
+    <img alt="Artur-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+    <img alt="Artur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+    <img alt="Artur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+    <img alt="Artur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+    <img alt="Artur-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
+    <img alt="Artur-React-testing-Library" height="30" width="40" src="https://testing-library.com/img/octopus-128x128.png"/>
+    <img alt="Artur-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+    <img alt="Artur-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/>
+  </div>
+  <br>
   <hr/>
     <h2>
       <p>🇧🇷 Estou aprendendo</p>
@@ -148,14 +103,9 @@
     </h2>
   <div align="center">
     <br>
-    <a
-      href="https://www.docker.com/resources/what-container/"
-      target="_blank"
-      rel="external"
-    >
-      <img alt="Artur-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
-    </a>
-  </div><br>
+    <img alt="Artur-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
+  </div>
+  <br>
   <hr/>
   <h2>
     <p>🇧🇷 Aprenderei em breve</p>
@@ -163,41 +113,11 @@
   </h2>
   <div align="center">
     <br>
-    <a
-      href="https://www.mysql.com/"
-      target="_blank"
-      rel="external"
-    >
-      <img alt="Artur-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-    </a>
-    <a
-      href="https://nodejs.org/en/"
-      target="_blank"
-      rel="external"
-    >
-      <img alt="Artur-nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
-    </a>
-    <a
-      href="https://www.typescriptlang.org/"
-      target="_blank"
-      rel="external"
-    >
-      <img alt="Artur-typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-    </a>
-    <a
-      href="https://www.mongodb.com/"
-      target="_blank"
-      rel="external"
-    >
-      <img alt="Artur-mongoDb" height="40" width="40" src="https://www.pngrepo.com/png/331488/512/mongodb.png"/>
-    </a>
-    <a
-      href="https://www.python.org/"
-      target="_blank"
-      rel="external"
-    >
-      <img alt="Artur-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-    </a>
+    <img alt="Artur-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+    <img alt="Artur-nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
+    <img alt="Artur-typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+    <img alt="Artur-mongoDb" height="40" width="40" src="https://www.pngrepo.com/png/331488/512/mongodb.png"/>
+    <img alt="Artur-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
   </div>
   <br>
   <hr/>
