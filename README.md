@@ -77,6 +77,25 @@
         <p>Projeto TrybeWarts</p>
       </a>
     </l1>
+    <li>
+      <a
+        style="color: inherit;"
+        href="https://github.com/arturMucci/4-arturMucci-project-trybeWarts"
+        target="_blank"
+      >
+        <p>Projeto TrybeWarts</p>
+      </a>
+    </l1>
+    <li>
+      <a
+        style="color: inherit;"
+        href="https://github.com/arturMucci/Javascript-unit-tests"
+        target="_blank"
+      >
+        <p>Javascript-unit-tests</p>
+      </a>
+    </l1>
+
   </ol>
   <br/>
   <hr/>
