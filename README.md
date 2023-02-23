@@ -17,23 +17,31 @@
       target="_blank"
       rel="external"
     >
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+      <img
+        src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="link para o linkedin"
+        target="_blank"
+      >
     </a>
-    <a
-      href="https://mail.google.com/mail/u/0/?view=cm&amp;fs=1&amp;tf=1&amp;source=mailto&amp;to=artur.mucci@gmail.com"
-       target="_blank"
-       rel="nofollow noopener"
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=artur.mucci@gmail.com">
+      <img
+        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        alt="link para enviar um email para artur.mucci@gmail.com pela platadorma gmail"
+        target="_blank"
        >
-        <img
-          src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-          target="_blank"
-        >
+    </a>
+    <a href="https://wa.me/5548999445262">
+      <img
+        src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+        alt="link para whatsapp web"
+        target="_blank"
+       >
     </a>
   </div>
   <hr/>
   <div align="center" >
     <img
-      alt="arturOctoCat"
+      alt="artur octo cat"
       height="300"
       src="./images/octocat-1676158060085.png"
     >
@@ -123,16 +131,7 @@
     <img alt="Artur-React-testing-Library" height="30" width="40" src="https://testing-library.com/img/octopus-128x128.png"/>
     <img alt="Artur-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
     <img alt="Artur-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/>
-  </div>
-  <br>
-  <hr/>
-    <h2>
-      <p>🇧🇷 Estou aprendendo</p>
-      <p>🇺🇸 Currently learning</p>
-    </h2>
-  <div align="center">
-    <br>
-    <img alt="Artur-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
+    <img alt="Artur-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>  
   </div>
   <br>
   <hr/>
