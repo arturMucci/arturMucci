@@ -131,7 +131,8 @@
     <img alt="Artur-React-testing-Library" height="30" width="40" src="https://testing-library.com/img/octopus-128x128.png"/>
     <img alt="Artur-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
     <img alt="Artur-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/>
-    <img alt="Artur-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>  
+    <img alt="Artur-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
+    <img alt="Artur-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   </div>
   <br>
   <hr/>
@@ -141,7 +142,6 @@
   </h2>
   <div align="center">
     <br>
-    <img alt="Artur-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
     <img alt="Artur-nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
     <img alt="Artur-typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
     <img alt="Artur-mongoDb" height="40" width="40" src="https://www.pngrepo.com/png/331488/512/mongodb.png"/>
