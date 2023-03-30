@@ -112,6 +112,14 @@
       >
         <p>Javascript-unit-tests</p>
       </a>
+    <li>
+      <a
+        href="https://github.com/arturMucci/starwars-planet-search"
+        target="_blank"
+      >
+        Projeto StarWars Planet Search
+    </a>
+    </li>
     </l1>
 
   </ol>
