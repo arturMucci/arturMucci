@@ -141,6 +141,9 @@
     <img alt="Artur-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/>
     <img alt="Artur-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
     <img alt="Artur-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+    <img alt="Artur-nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
+    <img alt="Artur-expressJs" height="40" width="90" src="https://devtechnosys.com/insights/wp-content/uploads/2019/06/express-js-logo.png"/>
+    <img alt="Artur-sequelize" height="40" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/sequelize-logo.png"/>
   </div>
   <br>
   <hr/>
@@ -150,7 +153,6 @@
   </h2>
   <div align="center">
     <br>
-    <img alt="Artur-nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
     <img alt="Artur-typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
     <img alt="Artur-mongoDb" height="40" width="40" src="https://www.pngrepo.com/png/331488/512/mongodb.png"/>
     <img alt="Artur-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
