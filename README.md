@@ -47,7 +47,7 @@
     >
   </div>
   <hr/>
-  <h2>
+<!--   <h2>
     <p>🇧🇷 Projetos em que Trabalhei</p>
     <p>🇺🇸 Projects I've Worked On</p>
   </h2>
@@ -122,7 +122,7 @@
     </li>
     </l1>
 
-  </ol>
+  </ol> -->
   <br/>
   <hr/>
   <h2>
