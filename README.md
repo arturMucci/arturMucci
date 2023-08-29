@@ -131,35 +131,90 @@
   </h2>
   <div align="center">
     <br>
-    <img alt="Artur-Slack" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg"/>
-    <img alt="Artur-trello" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg"/>
-    <img alt="Artur-bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"/>
-    <img alt="Artur-linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-    <img alt="artur-git" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg'>
-    <img alt="Artur-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
-    <img alt="Artur-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
-    <img alt="Artur-tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
-    <img alt="Artur-bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/>
-    <img alt="Artur-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-    <img alt="Artur-npm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
-    <img alt="Artur-yarn" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg"/>
-    <img alt="Artur-eslint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"/>
-    <img alt="Artur-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
-    <img alt="Artur-React-testing-Library" height="30" width="40" src="./images/octopus-128x128.png"/>
-    <img alt="Artur-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-    <img alt="Artur-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
-    <img alt="Artur-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
-    <img alt="Artur-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-    <img alt="Artur-nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
-    <img alt="Artur-expressJs" height="40" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"/>
-    <img alt="Artur-sequelize" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg"/>
-    <img alt="Artur-mocha" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"/>
-    <img alt="Artur-typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-    <img alt="Artur-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-    <img alt="Artur-pytest" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg"/>
-    <img alt="Artur-csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-    <img alt="Artur-dotnetcore" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
-    <img alt="Artur-MsSql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
+    <a href="https://slack.com/">
+      <img alt="Artur-Slack" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/>
+    </a>
+    <a href="https://trello.com/">
+      <img alt="Artur-trello" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/>
+    </a>
+    <a href="https://www.linux.org/">
+      <img alt="Artur-linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+    </a>
+    <a href="https://git-scm.com/">
+      <img alt="artur-git" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg'>
+    </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+      <img alt="Artur-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+    </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+      <img alt="Artur-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+    </a>
+    <a href="https://tailwindcss.com/">
+      <img alt="Artur-tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+    </a>
+    <a href="https://getbootstrap.com/">
+      <img alt="Artur-bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+    </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+      <img alt="Artur-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+    </a>
+    <a href="https://www.npmjs.com/">
+      <img alt="Artur-npm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
+    </a>
+    <a href="https://yarnpkg.com/">
+      <img alt="Artur-yarn" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg"/>
+    </a>
+    <a href="https://eslint.org/">
+      <img alt="Artur-eslint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"/>
+    </a>
+    <a href="https://jestjs.io/pt-BR/">
+      <img alt="Artur-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
+    </a>
+    <a href="https://react.dev/">
+      <img alt="Artur-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+    </a>
+    <a href="https://testing-library.com/docs/react-testing-library/intro/">
+      <img alt="Artur-React-testing-Library" height="30" width="40" src="./images/octopus-128x128.png"/>
+    </a>
+    <a href="https://redux.js.org/">
+      <img alt="Artur-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
+    </a>
+    <a href="https://www.docker.com/">
+      <img alt="Artur-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+    </a>
+    <a href="https://www.mysql.com/">
+      <img alt="Artur-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+    </a>
+    <a href="https://nodejs.org/en">
+      <img alt="Artur-nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+    </a>
+    <a href="https://expressjs.com/pt-br/">
+      <img alt="Artur-expressJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+    </a>
+    <a href="https://sequelize.org/">
+      <img alt="Artur-sequelize" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"/>
+    </a>
+    <a href="https://mochajs.org/">
+      <img alt="Artur-mocha" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"/>
+    </a>
+    <a href="https://www.typescriptlang.org/">
+      <img alt="Artur-typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+    </a>
+    <a href="https://www.python.org/">
+      <img alt="Artur-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    </a>
+    <a href="https://docs.pytest.org/en/7.4.x/">
+      <img alt="Artur-pytest" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg"/>
+    </a>
+    <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/">
+      <img alt="Artur-csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+    </a>
+    <a href="https://learn.microsoft.com/pt-br/dotnet/core/introduction">
+      <img alt="Artur-dotnetcore" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
+    </a>
+    <a href="https://www.mssqlserver.com.br/">
+      <img alt="Artur-MsSql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+    </a>
   </div>
   <br>
   <hr/>
@@ -169,8 +224,12 @@
   </h2>
   <div align="center">
     <br>
-    <img alt="Artur-mongodb" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"/>
-    <img alt="Artur-kubernetes" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg"/>
+    <a href="">
+      <img alt="Artur-mongodb" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"/>
+    </a>
+    <a href="">
+      <img alt="Artur-kubernetes" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
+    </a>
   </div>
   <br>
   <hr/>
