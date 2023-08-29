@@ -43,7 +43,7 @@
     <img
       alt="artur octo cat"
       height="300"
-      src="./images/octocat-1676158060085.png"
+      src="./images/Artur-Octocat.png"
     >
   </div>
   <hr/>
@@ -132,7 +132,9 @@
   <div align="center">
     <br>
     <a href="https://slack.com/">
-      <img alt="Artur-Slack" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/>
+      <label for="slack">
+        <img name="slack" alt="Artur-Slack" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/>
+      </label>
     </a>
     <a href="https://trello.com/">
       <img alt="Artur-trello" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/>
@@ -174,7 +176,7 @@
       <img alt="Artur-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
     </a>
     <a href="https://testing-library.com/docs/react-testing-library/intro/">
-      <img alt="Artur-React-testing-Library" height="30" width="40" src="./images/octopus-128x128.png"/>
+      <img alt="Artur-React-testing-Library" height="30" width="40" src="./images/RTL-Logo.png"/>
     </a>
     <a href="https://redux.js.org/">
       <img alt="Artur-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
@@ -189,7 +191,7 @@
       <img alt="Artur-nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
     </a>
     <a href="https://expressjs.com/pt-br/">
-      <img alt="Artur-expressJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+      <img alt="Artur-expressJs" height="40" width="40" src="./images/Express-logo.png"/>
     </a>
     <a href="https://sequelize.org/">
       <img alt="Artur-sequelize" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"/>
