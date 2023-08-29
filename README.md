@@ -47,7 +47,7 @@
     >
   </div>
   <hr/>
-<!--   <h2>
+  <!-- <h2>
     <p>🇧🇷 Projetos em que Trabalhei</p>
     <p>🇺🇸 Projects I've Worked On</p>
   </h2>
@@ -122,8 +122,8 @@
     </li>
     </l1>
 
-  </ol> -->
-  <br/>
+  </ol>
+  <br/> -->
   <hr/>
   <h2>
     <p>🇧🇷 Tecnologias que eu já conheço</p>
@@ -131,19 +131,35 @@
   </h2>
   <div align="center">
     <br>
-    <img alt="Artur-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-    <img alt="Artur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-    <img alt="Artur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-    <img alt="Artur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+    <img alt="Artur-Slack" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg"/>
+    <img alt="Artur-trello" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg"/>
+    <img alt="Artur-bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"/>
+    <img alt="Artur-linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+    <img alt="artur-git" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg'>
+    <img alt="Artur-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+    <img alt="Artur-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
+    <img alt="Artur-tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
+    <img alt="Artur-bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/>
+    <img alt="Artur-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+    <img alt="Artur-npm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
+    <img alt="Artur-yarn" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg"/>
+    <img alt="Artur-eslint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"/>
     <img alt="Artur-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
-    <img alt="Artur-React-testing-Library" height="30" width="40" src="https://testing-library.com/img/octopus-128x128.png"/>
-    <img alt="Artur-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-    <img alt="Artur-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/>
+    <img alt="Artur-React-testing-Library" height="30" width="40" src="./images/octopus-128x128.png"/>
+    <img alt="Artur-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+    <img alt="Artur-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
     <img alt="Artur-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
     <img alt="Artur-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
     <img alt="Artur-nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
-    <img alt="Artur-expressJs" height="40" width="90" src="https://devtechnosys.com/insights/wp-content/uploads/2019/06/express-js-logo.png"/>
-    <img alt="Artur-sequelize" height="40" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/sequelize-logo.png"/>
+    <img alt="Artur-expressJs" height="40" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"/>
+    <img alt="Artur-sequelize" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg"/>
+    <img alt="Artur-mocha" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"/>
+    <img alt="Artur-typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+    <img alt="Artur-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+    <img alt="Artur-pytest" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg"/>
+    <img alt="Artur-csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+    <img alt="Artur-dotnetcore" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
+    <img alt="Artur-MsSql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
   </div>
   <br>
   <hr/>
@@ -153,9 +169,8 @@
   </h2>
   <div align="center">
     <br>
-    <img alt="Artur-typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-    <img alt="Artur-mongoDb" height="40" width="40" src="https://www.pngrepo.com/png/331488/512/mongodb.png"/>
-    <img alt="Artur-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+    <img alt="Artur-mongodb" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"/>
+    <img alt="Artur-kubernetes" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg"/>
   </div>
   <br>
   <hr/>
