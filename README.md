@@ -5,10 +5,10 @@
     <p>🇺🇸 Welcome to my portfolio</p>
   </h1>
   <p>
-    🇧🇷 Meu nome completo é Artur de Meiras Mucci tenho 30 anos e estudo desenvolvimento web Full-stack na ☘️Trybe. Ainda estou buscando minha primeira oportunidade no mercado como Dev, gosto muito de tecnologia e fico muito empolgado quando estou aprendendo coisas novas, meu período no curso é previsto para acabar por volta da metade de 2023 mas já aprendi muito e me sinto preparado para encarar novos desafios. Colocarei em destaque mais abaixo minhas proficiências.
+    🇧🇷 Meu nome completo é Artur de Meiras Mucci tenho 31 anos e estudo desenvolvimento web Full-stack na ☘️Trybe. Ainda estou buscando minha primeira oportunidade no mercado como Dev, gosto muito de tecnologia e fico muito empolgado quando estou aprendendo coisas novas, meu período no curso é previsto para acabar por volta da metade de 2023 mas já aprendi muito e me sinto preparado para encarar novos desafios. Colocarei em destaque mais abaixo minhas proficiências.
   </p>
   <p>
-    🇺🇸 My full name is Artur de Meiras Mucci, I'm 30 years old and I study Full-stack web development at ☘️Trybe. I'm still looking for my first opportunity in the market as a Dev, I really like technology and I'm very excited when I'm learning new things, my period in the course is expected to end around the middle of 2023 but I've already learned a lot and I feel prepared to face new ones challenges. I will highlight my skills below.
+    🇺🇸 My full name is Artur de Meiras Mucci, I'm 31 years old and I study Full-stack web development at ☘️Trybe. I'm still looking for my first opportunity in the market as a Dev, I really like technology and I'm very excited when I'm learning new things, my period in the course is expected to end around the middle of 2023 but I've already learned a lot and I feel prepared to face new ones challenges. I will highlight my skills below.
   </p>
   <hr/>
   <div align="center">
